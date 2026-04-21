@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/luunguyenthuan/.nuget/packages/": {}
+    "/Users/jaydensakow/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+      "projectUniqueName": "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
       "projectName": "MergeBranch",
-      "projectPath": "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
-      "packagesPath": "/Users/luunguyenthuan/.nuget/packages/",
-      "outputPath": "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/obj/",
+      "projectPath": "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+      "packagesPath": "/Users/jaydensakow/.nuget/packages/",
+      "outputPath": "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/luunguyenthuan/.nuget/NuGet/NuGet.Config"
+        "/Users/jaydensakow/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/luunguyenthuan/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

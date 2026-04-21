@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {}
+    "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {}
   },
   "projects": {
-    "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {
+    "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+        "projectUniqueName": "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
         "projectName": "MergeBranch",
-        "projectPath": "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
-        "packagesPath": "/Users/vanduong/.nuget/packages/",
-        "outputPath": "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/obj/",
+        "projectPath": "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+        "packagesPath": "/Users/luunguyenthuan/.nuget/packages/",
+        "outputPath": "/Users/luunguyenthuan/RiderProjects/MergeBranch/MergeBranch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vanduong/.nuget/NuGet/NuGet.Config"
+          "/Users/luunguyenthuan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/vanduong/.dotnet/sdk/9.0.313/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/luunguyenthuan/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

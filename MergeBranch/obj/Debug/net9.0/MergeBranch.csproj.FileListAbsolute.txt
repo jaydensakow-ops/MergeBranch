@@ -1,0 +1,15 @@
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/bin/Debug/net9.0/MergeBranch
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/bin/Debug/net9.0/MergeBranch.deps.json
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/bin/Debug/net9.0/MergeBranch.runtimeconfig.json
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/bin/Debug/net9.0/MergeBranch.dll
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/bin/Debug/net9.0/MergeBranch.pdb
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.AssemblyInfoInputs.cache
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.AssemblyInfo.cs
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.csproj.CoreCompileInputs.cache
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.sourcelink.json
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.dll
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/refint/MergeBranch.dll
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.pdb
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/MergeBranch.genruntimeconfig.cache
+/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/Debug/net9.0/ref/MergeBranch.dll

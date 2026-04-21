@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {}
+    "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {}
   },
   "projects": {
-    "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {
+    "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+        "projectUniqueName": "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
         "projectName": "MergeBranch",
-        "projectPath": "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
-        "packagesPath": "/Users/jaydensakow/.nuget/packages/",
-        "outputPath": "/Users/jaydensakow/RiderProjects/MergeBranch/MergeBranch/obj/",
+        "projectPath": "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/MergeBranch.csproj",
+        "packagesPath": "/Users/vanduong/.nuget/packages/",
+        "outputPath": "/Users/vanduong/RiderProjects/MergeBranch/MergeBranch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jaydensakow/.nuget/NuGet/NuGet.Config"
+          "/Users/vanduong/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/vanduong/.dotnet/sdk/9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
